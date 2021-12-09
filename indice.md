@@ -11,3 +11,5 @@ Distribuciones para análisis forense:
 * [Santoku](https://santoku-linux.com/)
 
 ## Presentación análisis forense a Móviles en Mobile Week Málaga 2021 ##
+
+Presentación [GitHub Pages](https://docs.google.com/presentation/d/1wCffpC0GdlK5dhqzm_cURmWH1pBGF0OF5EoDNV9x7pY/edit?usp=sharing).
