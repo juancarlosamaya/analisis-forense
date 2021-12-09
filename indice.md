@@ -12,4 +12,4 @@ Distribuciones para análisis forense:
 
 ## Presentación análisis forense a Móviles en Mobile Week Málaga 2021 ##
 
-Presentación [GitHub Pages](https://docs.google.com/presentation/d/1wCffpC0GdlK5dhqzm_cURmWH1pBGF0OF5EoDNV9x7pY/edit?usp=sharing).
+[Presentación](https://docs.google.com/presentation/d/1wCffpC0GdlK5dhqzm_cURmWH1pBGF0OF5EoDNV9x7pY/edit?usp=sharing).
